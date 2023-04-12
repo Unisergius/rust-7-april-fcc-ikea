@@ -4,12 +4,12 @@
 
 ## Rust is here. Why should I care about it?
 
-  * Concurrency
-  * Safety
-  * Speed
-  * Safety **AND** Speed - I mean what? And no Garbage Collector? Strange new concepts.
-  * Ownership and Borrow Checker 
-  * Easy to compile it to WebAssembly.
+  * Concurrency, Safety, Speed. How?
+  * Safety **AND** Speed 
+  * No Garbage Collector
+  * Excellent memory manager sifting the program using Stack and Heap data structuring.
+  * [Ownership and Borrow Checker](https://rabingaire.medium.com/memory-management-rust-cf65c8465570) 
+  * And other things like being Easy to compile it to WebAssembly, immutability by default, detailed type annotations...
 
 ## Ownership and Borrow Checker - A very important concept to understand in RUST
 
